@@ -1,0 +1,54 @@
+Iniciando simulação de main_mendi
+
+Dados fornecidos:
+ER = 0.25
+Umidade = 12.0%
+S/B = 0.8
+Tg = 1100.0 K
+Tag = 600.0 K
+Vazão mássica de biomassa: mdot_db = 1.0 kg/h
+
+Biomassa para gaseificação: CH₁.₅₃₀₇O₀.₆₂₃₁N₀.₀₀₃₄
+M biomassa: 23.571 kg biomassa / kmol
+Razão ar-combustível real (Silva, 2019): 1.5601 kg ar / kg biomassa
+Razão ar-combustível real (Mendiburu, 2014): 1.5601 kg ar / kg biomassa
+
+Iniciando método de Newton-Raphson
+Chute inicial: [4. 4. 4. 4. 4. 4.]
+Newton-Raphson - Parada segundo critério 1: 6 Iterações
+Fim do método Newton-Raphson
+Número de mols no produto: n_p = [0.566, 0.2407, 0.5593, 1.0245, 0.2]
+
+Massa molar dos gases produzidos: M_g = 22.899 kg/kmol
+
+LHV da biomassa em base daf: LHV_bio = 19560.618 kJ/kg
+LHV da biomassa em base seca: LHV_bio = 457580.03 kJ/kmol
+hf da biomassa: hf_bio = -117495.1769 kJ/kmol
+HHV do gás produzido em base umida: HHV_g = 407914.415 kJ/kmol
+LHV do gás produzido em base umida: LHV_g = 4.048 MJ/Nm3 ou LHV_g = 365424.391 kJ/kmol
+LHV do gás produzido: LHV_g = 15957.773 kJ/kg
+Q_dot =-11700.749 kJ / kmol biomassa
+
+Fração mássica dos produtos: x_p = [0.1573, 0.0669, 0.1554, 0.2847, 0.0556, 0.2802, 0.0] kJ / kmol biomassa
+Fração mássica dos produtos em base seca: x_pd = [0.2198, 0.0935, 0.2173, 0.0777, 0.3917, 0.0] kJ / kmol biomassa
+
+Vazão mássica de biomassa seca: mdot_db = 0.88 kg/h
+Vazão mássica de gás produzido: mdot_g = 3.36 kg/h
+Exergia total dos produtos da gaseificação em base seca: 245137.751 kJ/kmol
+Exergia da biomassa: 1747058.904 kJ/kmol
+Exergia do ar para gaseificação: 5785.783 kJ/kmol
+Exergia do vapor para gaseificação: -66064.337 kJ/kmol
+
+Eficiência de gás frio (Loha 2011): n_cg = 66.678%
+Eficiência de conversão: n_conv = 77.606%
+Eficiência exergética: Ψ₁ = 39.043%
+
+Resultados:
+H2: 21.98%
+CO: 9.35%
+CO2: 21.73%
+CH4: 7.77%
+N2: 39.17%
+
+--- Fim da simulação ---
+

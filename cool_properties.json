@@ -1,0 +1,20 @@
+{
+    "H2S": {
+        "density": 1.385255606763514,
+        "molar_density": 40.646122012210775,
+        "heat_capacity": 1013.8379994506579,
+        "massic_enthalpy": 633092.9986482649,
+        "molar_enthalpy": 21576.36651577168,
+        "molar_gibbs": -8021.760775824161,
+        "massic_entropy": 2912.8533468554438
+    },
+    "Water": {
+        "density": 997.0470390177069,
+        "molar_density": 55344.5576839438,
+        "heat_capacity": 4181.318830958018,
+        "massic_enthalpy": 104918.89282781283,
+        "molar_enthalpy": 1890.1419725563262,
+        "molar_gibbs": -82.18173264372811,
+        "massic_entropy": 367.19998402194045
+    }
+}
